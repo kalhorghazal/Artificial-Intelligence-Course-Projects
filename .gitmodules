@@ -1,3 +1,6 @@
 [submodule "CA0"]
 	path = CA0
 	url = https://github.com/kalhorghazal/Clicking-on-Ad-Prediction
+[submodule "CA1"]
+	path = CA1
+	url = https://github.com/kalhorghazal/Snake-and-Foods
