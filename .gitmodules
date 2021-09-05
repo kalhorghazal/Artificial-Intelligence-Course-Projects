@@ -4,3 +4,6 @@
 [submodule "CA1"]
 	path = CA1
 	url = https://github.com/kalhorghazal/Snake-and-Foods
+[submodule "CA2"]
+	path = C2
+	url = https://github.com/kalhorghazal/Logic-Gate-Assignment
