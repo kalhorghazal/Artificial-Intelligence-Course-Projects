@@ -13,3 +13,6 @@
 [submodule "CA4"]
 	path = CA4
 	url = https://github.com/kalhorghazal/House-Price-Prediction
+[submodule "CA5"]
+	path = CA5
+	url = https://github.com/kalhorghazal/Feedforward-Neural-Network-form-Scratch
