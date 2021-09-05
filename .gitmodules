@@ -16,3 +16,6 @@
 [submodule "CA5"]
 	path = CA5
 	url = https://github.com/kalhorghazal/Feedforward-Neural-Network-form-Scratch
+[submodule "CA6"]
+	path = CA6
+	url = https://github.com/kalhorghazal/Predicting-COVID-19-from-Lung-X-ray
