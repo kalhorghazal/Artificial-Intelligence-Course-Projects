@@ -7,3 +7,6 @@
 [submodule "CA2"]
 	path = CA2
 	url = https://github.com/kalhorghazal/Logic-Gate-Assignment
+[submodule "CA3"]
+	path = CA3
+	url = https://github.com/kalhorghazal/Sentiment-Analysis-of-Digikala
