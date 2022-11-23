@@ -1,4 +1,4 @@
-# Aritificial Intelligence Course Projects
+# Artificial Intelligence Course Projects
 This repository contains my Aritificial Intelligence course projects.
 
 1. CA0: Introduction to NumPy and Pandas Libraries
