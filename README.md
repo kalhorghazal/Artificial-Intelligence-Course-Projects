@@ -7,4 +7,4 @@ This repository contains my Aritificial Intelligence course projects.
 4. CA3: Naive Bayes Classifier
 5. CA4: Introduction to KNN, Random Forest, Decision Tree and Voting Regression Models
 6. CA5: Implementation of a FeedForward Neural Network
-7. CA6: Introduction Keras Library
+7. CA6: Introduction to Keras Library
