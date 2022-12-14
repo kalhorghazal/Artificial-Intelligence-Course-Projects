@@ -1,5 +1,5 @@
 # Artificial Intelligence Course Projects
-This repository contains my Aritificial Intelligence course projects.
+This repository contains my Artificial Intelligence course projects.
 
 - CA0: Introduction to NumPy and Pandas Libraries
 - CA1: Implementation of Search Algorithms (BFS, IDS, A*)
